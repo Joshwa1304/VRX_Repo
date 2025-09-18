@@ -41,4 +41,7 @@
            MOVE 12         TO WS-PD.
            MOVE WS-PD      TO WS-EDITED.
            DISPLAY WS-EDITED.
+           MOVE 12         TO WS-PD.
+           MOVE WS-PD      TO WS-EDITED.
+           DISPLAY WS-EDITED.
            GOBACK.

@@ -35,6 +35,7 @@
            MOVE 12345      TO WS-PD.
            MOVE WS-PD      TO WS-EDITED.
            DISPLAY WS-EDITED.
+           DISPLAY WS-EDITED.
            MOVE 998        TO WS-PD.
            MOVE WS-PD      TO WS-EDITED.
            DISPLAY WS-EDITED.
